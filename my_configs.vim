@@ -27,3 +27,14 @@ let g:multi_cursor_quit_key='<Esc>'
 let g:multi_cursor_start_key='<C-n>'
 let g:multi_cursor_start_word_key='g<C-n>'
 
+" Make vim indent 2 spaces for ruby and scala files only
+filetype plugin indent on
+set sw=4
+set ts=4
+:autocmd Filetype ruby set softtabstop=2
+:autocmd Filetype ruby set sw=2
+:autocmd Filetype ruby set ts=2
+
+:autocmd Filetype scala set softtabstop=2
+:autocmd Filetype scala set sw=2
+:autocmd Filetype scala set ts=2
