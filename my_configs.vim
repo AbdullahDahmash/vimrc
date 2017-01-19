@@ -27,6 +27,7 @@ highlight link SyntasticStyleWarningSign SignColumn
 let g:syntastic_python_checkers = ['pep8']
 let g:syntastic_javascript_checkers = ['eslint']
 let g:syntastic_ruby_checkers = ['rubocop']
+let g:syntastic_typescript_checkers = ['tslint']
 
 " Theme 
 syntax enable
