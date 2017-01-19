@@ -64,3 +64,6 @@ set ts=4
 let g:gitgutter_enabled = 1
 let g:gitgutter_realtime = 1
 set updatetime=250
+
+" Add es6 to javascript syntax
+au BufNewFile,BufRead *.es6 set filetype=javascipt
