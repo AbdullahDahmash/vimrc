@@ -66,4 +66,4 @@ let g:gitgutter_realtime = 1
 set updatetime=250
 
 " Add es6 to javascript syntax
-au BufNewFile,BufRead *.es6 set filetype=javascipt
+au BufNewFile,BufRead *.es6 set filetype=javascript 
