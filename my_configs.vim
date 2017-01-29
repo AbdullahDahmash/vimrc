@@ -66,4 +66,5 @@ let g:gitgutter_realtime = 1
 set updatetime=250
 
 " Add es6 to javascript syntax
-au BufNewFile,BufRead *.es6 set filetype=javascipt
+au BufRead,BufNewFile *.es6 set filetype=javascript    " to overrule an existing filetype
+au BufRead,BufNewFile *.es6 setfiletype javascript        " to set it only if no filetype has been detected for this extension
