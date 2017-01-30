@@ -67,3 +67,6 @@ set updatetime=250
 
 " Add es6 to javascript syntax
 au BufNewFile,BufRead *.es6 set filetype=javascript 
+
+" Auto-formant
+noremap <F3> :Autoformat<CR>
