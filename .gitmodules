@@ -1,0 +1,30 @@
+[submodule "sources_non_forked/emmet-vim"]
+	path = sources_non_forked/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "sources_non_forked/YouCompleteMe"]
+	path = sources_non_forked/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "sources_non_forked/auto-pairs"]
+	path = sources_non_forked/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "sources_non_forked/delimitMate"]
+	path = sources_non_forked/delimitMate
+	url = https://github.com/Raimondi/delimitMate
+[submodule "sources_non_forked/gruvbox"]
+	path = sources_non_forked/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "sources_non_forked/typescript-vim"]
+	path = sources_non_forked/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
+[submodule "sources_non_forked/vim-autoformat"]
+	path = sources_non_forked/vim-autoformat
+	url = https://github.com/Chiel92/vim-autoformat
+[submodule "sources_non_forked/vim-colorschemes"]
+	path = sources_non_forked/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes
+[submodule "sources_non_forked/vim-es6"]
+	path = sources_non_forked/vim-es6
+	url = https://github.com/isRuslan/vim-es6
+[submodule "sources_non_forked/vim-gitgutter"]
+	path = sources_non_forked/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
