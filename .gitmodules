@@ -28,3 +28,6 @@
 [submodule "sources_non_forked/vim-gitgutter"]
 	path = sources_non_forked/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter
+[submodule "sources_non_forked/vim-mustache-handlebars"]
+	path = sources_non_forked/vim-mustache-handlebars
+	url = git://github.com/mustache/vim-mustache-handlebars.git
