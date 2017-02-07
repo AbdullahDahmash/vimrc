@@ -74,4 +74,4 @@ au BufRead,BufNewFile *.es6 set filetype=javascript    " to overrule an existing
 au BufRead,BufNewFile *.es6 setfiletype javascript        " to set it only if no filetype has been detected for this extension
 
 " Auto-formant
-noremap <F3> :Autoformat<CR>
+noremap <F5> :Autoformat<CR>
