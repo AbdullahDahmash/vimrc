@@ -75,3 +75,6 @@ au BufRead,BufNewFile *.es6 setfiletype javascript        " to set it only if no
 
 " Auto-formant
 noremap <F5> :Autoformat<CR>
+
+" Add jbuilder syntax highlighting
+au BufNewFile,BufRead *.json.jbuilder set ft=ruby
