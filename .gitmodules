@@ -31,3 +31,6 @@
 [submodule "sources_non_forked/vim-mustache-handlebars"]
 	path = sources_non_forked/vim-mustache-handlebars
 	url = git://github.com/mustache/vim-mustache-handlebars.git
+[submodule "sources_non_forked/vim-vue"]
+	path = sources_non_forked/vim-vue
+	url = https://github.com/posva/vim-vue.git
