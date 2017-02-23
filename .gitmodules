@@ -34,3 +34,9 @@
 [submodule "sources_non_forked/vim-vue"]
 	path = sources_non_forked/vim-vue
 	url = https://github.com/posva/vim-vue.git
+[submodule "sources_non_forked/vim-rails"]
+	path = sources_non_forked/vim-rails
+	url = git@github.com:tpope/vim-rails.git
+[submodule "sources_non_forked/ember.vim"]
+	path = sources_non_forked/ember.vim
+	url = git@github.com:dsawardekar/ember.vim.git
