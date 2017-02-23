@@ -32,7 +32,7 @@ let g:syntastic_typescript_checkers = ['tslint']
 " Theme 
 syntax enable
 set background=dark
-colorscheme solarized
+colorscheme Monokai
 
 " NerdTree
 map <leader>nn :NERDTreeToggle<cr>
