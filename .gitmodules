@@ -30,7 +30,7 @@
 	url = https://github.com/airblade/vim-gitgutter
 [submodule "sources_non_forked/vim-mustache-handlebars"]
 	path = sources_non_forked/vim-mustache-handlebars
-	url = git://github.com/mustache/vim-mustache-handlebars.git
+	url = https://github.com/mustache/vim-mustache-handlebars
 [submodule "sources_non_forked/vim-vue"]
 	path = sources_non_forked/vim-vue
 	url = https://github.com/posva/vim-vue.git
