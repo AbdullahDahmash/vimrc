@@ -42,4 +42,4 @@
 	url = git@github.com:dsawardekar/ember.vim.git
 [submodule "sources_non_forked/vim-elixir"]
 	path = sources_non_forked/vim-elixir
-	url = https://github.com/elixir-lang/vim-elixir.git
+	url = https://github.com/elixir-lang/vim-elixir
