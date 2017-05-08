@@ -31,8 +31,8 @@ let g:syntastic_typescript_checkers = ['tslint']
 
 " Theme 
 syntax enable
-"set background=light
-colorscheme pyte
+set background=light
+colorscheme solarized
 
 " NerdTree
 map <leader>nn :NERDTreeToggle<cr>
