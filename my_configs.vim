@@ -32,6 +32,7 @@ let g:syntastic_typescript_checkers = ['tslint']
 " Theme 
 syntax enable
 set background=light
+let g:solarized_termcolors=256  
 colorscheme solarized
 
 " NerdTree
