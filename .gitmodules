@@ -36,16 +36,16 @@
 	url = https://github.com/posva/vim-vue.git
 [submodule "sources_non_forked/vim-rails"]
 	path = sources_non_forked/vim-rails
-	url = git@github.com:tpope/vim-rails.git
+	url = https://github.com/tpope/vim-rails.git
 [submodule "sources_non_forked/ember.vim"]
 	path = sources_non_forked/ember.vim
-	url = git@github.com:dsawardekar/ember.vim.git
+	url = https://github.com/dsawardekar/ember.vim.git
 [submodule "sources_non_forked/vim-elixir"]
 	path = sources_non_forked/vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir
 [submodule "sources_non_forked/vim-slumlord"]
 	path = sources_non_forked/vim-slumlord
-	url = git@github.com:scrooloose/vim-slumlord.git
+	url = https://github.com/scrooloose/vim-slumlord.git
 [submodule "sources_non_forked/plantuml-syntax"]
 	path = sources_non_forked/plantuml-syntax
-	url = git@github.com:aklt/plantuml-syntax.git
+	url = https://github.com/aklt/plantuml-syntax.git
